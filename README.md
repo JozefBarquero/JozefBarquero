@@ -120,9 +120,7 @@
 
 <br>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=JozefBarquero&color=bd93f9&style=flat-square&label=Visitas+al+perfil" />
-</div>
+
 
 <!-- ═══════════ FOOTER ═══════════ -->
 <div align="center">
